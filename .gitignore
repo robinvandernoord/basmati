@@ -4,3 +4,5 @@ venv*
 coverage.json
 .idea
 .coverage
+build/
+dist/
